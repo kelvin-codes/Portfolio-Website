@@ -1,1 +1,1 @@
-# 10xbDimension Landing Page
+# Landing Page
